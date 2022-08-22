@@ -4,7 +4,7 @@ import 'home_screen.dart';
 class MyNavigationBar extends StatefulWidget {
   const MyNavigationBar({Key? key}) : super(key: key);
 
-  static const String routeName = '/';
+  static const String routeName = '/navigation';
 
   @override
   MyNavigationBarState createState() => MyNavigationBarState();
