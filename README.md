@@ -40,4 +40,4 @@ flutter run --release
 
 # Summary
 
-A flutter web app for Augmentik recruitment web app.
+A flutter web app for Augmentik recruitment.
