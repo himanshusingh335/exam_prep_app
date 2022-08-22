@@ -14,7 +14,7 @@ This project requires installation of [Flutter](https://flutter.dev/).
 Download or clone this repo by using the link below:
 
 ```
-https://github.com/himanshusingh335/yellow_class_youtube_clone.git
+https://github.com/himanshusingh335/exam_prep_app.git
 ```
 
 **Step 2:**
